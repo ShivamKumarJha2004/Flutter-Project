@@ -1,5 +1,7 @@
 {
     "files.autoSave": "off",
     "files.autoSaveDelay": 500,
-    "files.autoSaveWhenNoErrors": false
+    "files.autoSaveWhenNoErrors": false,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true
 }
